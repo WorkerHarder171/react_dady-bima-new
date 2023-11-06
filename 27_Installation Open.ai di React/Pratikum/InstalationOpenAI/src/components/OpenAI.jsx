@@ -41,13 +41,13 @@ const ChatBot = () => {
             </div>
           ) : (
             result && (
-              <div className="p-5 rounded-se-xl rounded-ee-xl rounded-bl-xl border shadow">
-                <p
-                  className="text-xs font-regular text-justify leading-5"
-                >
-                  {result}
-                </p>
-              </div>
+                <div className="p-5 rounded-se-xl rounded-ee-xl rounded-bl-xl border shadow">
+                  <p
+                    className="text-xs font-regular text-justify leading-5"
+                  >
+                    {result}
+                  </p>
+                </div>
             )
           )}
           <div className="relative">
