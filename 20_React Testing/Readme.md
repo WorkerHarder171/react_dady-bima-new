@@ -23,3 +23,5 @@ Lalu Framework mana yang recommended?
 
  Hasil Test React Testing
  ![Alt text](<Screenshots/image tets.jpg>)
+
+ yang di atas ini merupakan hasil testing saya pada component CreateProduct.jsx disitu saya melakukan test apakah benar dari form yang sudah saya buat bisa melakukan get dengan benar di formnya dan terlihat bahwa yang ada diatas semua test mendapatkan passed
