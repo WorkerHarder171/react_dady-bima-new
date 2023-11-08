@@ -1,0 +1,23 @@
+
+header {
+    background-image: url(./../assets/ackground.jpg);
+    background-size: cover;
+  }
+  .navbar-brand {
+    transition: 0.8s ease;
+  }
+  .navbar-brand:hover {
+    zoom: 110%;
+  }
+
+  .title-text {
+    font-size: 3.5em;
+    margin: 0;
+  }
+  .nav-link {
+    padding: 10px 25px;
+    transition: 0.4s ease;
+  }
+  .nav-item .nav-link:hover {
+    margin: 0px 25px;
+  }
